@@ -1,0 +1,15 @@
+[Application]
+Name = "coolstina"
+Version = "v1.0.0"
+
+[Database]
+[Database.MYSQL]
+Host = "localhost:3306"
+Username = "coolstina"
+Password = ""
+Database = "coolstina"
+
+[Database.Redis]
+Host = "localhost:6379"
+Password = ""
+Database = 5
